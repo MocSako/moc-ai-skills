@@ -80,6 +80,3 @@ Built on the shoulders of people who share their work openly:
 - [Matt Pocock](https://github.com/mattpocock) — skill-building patterns that shaped how I think about agent workflows
 - [claude-code-templates](https://aitmpl.com) — great reference for commands and skill structure
 
----
-
-*Built by [MocSako](https://github.com/MocSako)*
