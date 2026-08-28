@@ -75,6 +75,16 @@ Curated plugins I use alongside my skills. Each has its own README with install 
 
 ---
 
+## Skills
+
+Curated skills I use alongside chiefofstaff.
+
+| Skill | What it does | Source |
+|---|---|---|
+| `deslop` | Scans the diff against main and strips AI-generated slop — unnecessary comments, defensive checks, `any` casts, deeply nested code | [Cursor Team Kit](https://github.com/getcursor/cursor) |
+
+---
+
 ## What's coming
 
 - `resume-coach` — tailor your resume to a job description, write cover letters, ATS keyword check, punch up weak bullets
