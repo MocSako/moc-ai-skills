@@ -77,11 +77,15 @@ Curated plugins I use alongside my skills. Each has its own README with install 
 
 ## Skills
 
-Curated skills I use alongside chiefofstaff.
+Curated skills I use alongside chiefofstaff. Mostly from builders I follow — listed here so they're in one place.
 
 | Skill | What it does | Source |
 |---|---|---|
+| `grill-me` | Stress-tests a plan or design by drilling you with questions, round by round, until nothing is left silently assumed | [Matt Pocock](https://github.com/mattpocock/skills) |
+| `grill-with-docs` | Same as grill-me, but also sharpens your domain language and writes ADRs and a glossary as decisions get made | [Matt Pocock](https://github.com/mattpocock/skills) |
 | `deslop` | Scans the diff against main and strips AI-generated slop — unnecessary comments, defensive checks, `any` casts, deeply nested code | [Cursor Team Kit](https://github.com/getcursor/cursor) |
+
+> `grill-me` and `grill-with-docs` depend on the `grilling` and `domain-modeling` sub-skills included in this repo.
 
 ---
 
