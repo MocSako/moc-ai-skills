@@ -65,6 +65,16 @@ Paste this into your agent:
 
 ---
 
+## Plugins
+
+Curated plugins I use alongside my skills. Each has its own README with install instructions.
+
+| Plugin | What it does | Source |
+|---|---|---|
+| `remember` | Continuous memory — saves sessions automatically so Claude starts the next one with context already loaded | [claude.com/plugins/remember](https://claude.com/plugins/remember) |
+
+---
+
 ## What's coming
 
 - `resume-coach` — tailor your resume to a job description, write cover letters, ATS keyword check, punch up weak bullets
@@ -79,4 +89,5 @@ Built on the shoulders of people who share their work openly:
 
 - [Matt Pocock](https://github.com/mattpocock) — skill-building patterns that shaped how I think about agent workflows
 - [claude-code-templates](https://aitmpl.com) — great reference for commands and skill structure
+- [Digital-Process-Tools](https://github.com/Digital-Process-Tools/claude-remember) — the remember plugin for continuous Claude Code memory
 
