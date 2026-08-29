@@ -89,14 +89,6 @@ Curated skills I use alongside chiefofstaff. Mostly from builders I follow — l
 
 ---
 
-## What's coming
-
-- `resume-coach` — tailor your resume to a job description, write cover letters, ATS keyword check, punch up weak bullets
-- `interview-prep` — company research, likely questions, STAR coaching, pre-interview checklist, follow-up email
-- `job-tracker` — track every application, pipeline view, follow-up reminders
-
----
-
 ## Credits
 
 Built on the shoulders of people who share their work openly:
