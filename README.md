@@ -84,6 +84,7 @@ Curated skills I use alongside chiefofstaff. Mostly from builders I follow — l
 | `grill-me` | Stress-tests a plan or design by drilling you with questions, round by round, until nothing is left silently assumed | [Matt Pocock](https://github.com/mattpocock/skills) |
 | `grill-with-docs` | Same as grill-me, but also sharpens your domain language and writes ADRs and a glossary as decisions get made | [Matt Pocock](https://github.com/mattpocock/skills) |
 | `deslop` | Scans the diff against main and strips AI-generated slop — unnecessary comments, defensive checks, `any` casts, deeply nested code | [Cursor Team Kit](https://github.com/getcursor/cursor) |
+| `no-mistakes` | Local git proxy that runs a full validation pipeline (review, tests, lint, docs) before anything hits GitHub, then opens the PR automatically | [kunchenguid](https://github.com/kunchenguid/no-mistakes) |
 
 > `grill-me` and `grill-with-docs` depend on the `grilling` and `domain-modeling` sub-skills included in this repo.
 
