@@ -86,6 +86,7 @@ Curated skills I use alongside chiefofstaff. Mostly from builders I follow — l
 | `deslop` | Scans the diff against main and strips AI-generated slop — unnecessary comments, defensive checks, `any` casts, deeply nested code | [Cursor Team Kit](https://github.com/getcursor/cursor) |
 | `no-mistakes` | Local git proxy that runs a full validation pipeline (review, tests, lint, docs) before anything hits GitHub, then opens the PR automatically | [kunchenguid](https://github.com/kunchenguid/no-mistakes) |
 | `teach` | Turns any directory into a stateful learning workspace — builds interactive HTML lessons, tracks progress across sessions, and adapts to your zone of proximal development | [Matt Pocock](https://github.com/mattpocock/skills) |
+| `handoff` | Compacts the current conversation into a handoff document so a fresh agent can pick up exactly where you left off | [Matt Pocock](https://github.com/mattpocock/skills) |
 
 > `grill-me` and `grill-with-docs` depend on the `grilling` and `domain-modeling` sub-skills included in this repo.
 
