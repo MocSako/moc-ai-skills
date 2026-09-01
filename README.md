@@ -65,6 +65,14 @@ Paste this into your agent:
 
 ---
 
+## Skills
+
+| Skill | What it does | Invoke with |
+|---|---|---|
+| `explain-code` | Analyzes and explains any code — high-level overview down to line-by-line logic, algorithms, data structures, and language-specific patterns | `/explain-code` |
+
+---
+
 ## Plugins
 
 Curated plugins I use alongside my skills. Each has its own README with install instructions.
@@ -72,6 +80,7 @@ Curated plugins I use alongside my skills. Each has its own README with install 
 | Plugin | What it does | Source |
 |---|---|---|
 | `remember` | Continuous memory — saves sessions automatically so Claude starts the next one with context already loaded | [claude.com/plugins/remember](https://claude.com/plugins/remember) |
+| `code-simplifier` | Refines recently modified code for clarity and consistency without changing functionality — runs autonomously after edits | [claude.com/plugins/code-simplifier](https://claude.com/plugins/code-simplifier) |
 
 ---
 
