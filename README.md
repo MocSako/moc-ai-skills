@@ -70,6 +70,7 @@ Paste this into your agent:
 | Skill | What it does | Invoke with |
 |---|---|---|
 | `explain-code` | Analyzes and explains any code — high-level overview down to line-by-line logic, algorithms, data structures, and language-specific patterns | `/explain-code` |
+| `thermo-nuclear-code-quality-review` | Extremely strict code quality audit — hunts for structural regressions, missed simplifications, spaghetti growth, and abstraction problems. Higher bar than a standard review | `/thermo-nuclear-code-quality-review` |
 
 ---
 
